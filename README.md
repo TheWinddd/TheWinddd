@@ -379,14 +379,14 @@ fun_facts:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheWinddd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&ring_color=3B82F6&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheWinddd&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheWinddd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&ring_color=3B82F6&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=TheWinddd&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWinddd&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWinddd&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -394,55 +394,6 @@ fun_facts:
 <!-- Activity Graph -->
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheWinddd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=F59E0B&area=true&area_color=3B82F6" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- ========================================== -->
-<!--          OPEN SOURCE REPOS                  -->
-<!-- ========================================== -->
-
-## 💎 Open Source Repos
-
-<div align="center">
-
-<a href="https://github.com/TheWinddd/pubchem">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=pubchem&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
-</a>
-<a href="https://github.com/TheWinddd/Pubmed-v2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=Pubmed-v2&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
-</a>
-<a href="https://github.com/TheWinddd/duocdienVN">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=duocdienVN&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
-</a>
-<a href="https://github.com/TheWinddd/NMR">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=NMR&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
-</a>
-<a href="https://github.com/TheWinddd/HUP-tailieu">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=HUP-tailieu&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
-</a>
-<a href="https://github.com/TheWinddd/Streamlit-HUP">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=Streamlit-HUP&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
-</a>
-<a href="https://github.com/TheWinddd/FormRD">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=FormRD&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
-</a>
-<a href="https://github.com/TheWinddd/cLoan">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=cLoan&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ========================================== -->
-<!--              TROPHY SECTION                 -->
-<!-- ========================================== -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheWinddd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
