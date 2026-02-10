@@ -1,16 +1,11 @@
 <!-- ========================================== -->
-<!--        🌟 VAN QUAN BUI — GITHUB PROFILE README       -->
+<!--   🌟 VAN QUAN BUI — GITHUB PROFILE README   -->
 <!-- ========================================== -->
 
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Van+Quan+Bui;%F0%9F%92%8A+Pharma+Professional+×+AI+Automation" alt="Typing SVG" /></a>
-
-<br/>
-
 <!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pharma%20×%20Market%20Intelligence%20×%20AI%20Automation&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20the%20%22Full-stack%20Pharmacist%22%20future&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=💊%20Pharma%20×%20Code%20×%20AI&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Van%20Quan%20Bui%20—%20Full-stack%20Pharmacist%20%7C%20AI%20Engineer&descAlignY=52&descSize=18" width="100%"/>
 
 </div>
 
@@ -30,6 +25,61 @@
 <br/>
 
 <!-- ========================================== -->
+<!--         🧬 DUAL IDENTITY SECTION            -->
+<!-- ========================================== -->
+
+<div align="center">
+
+## 🧬 Two Worlds. One Mission.
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💊 Pharmaceutical Sciences
+
+<img src="https://img.shields.io/badge/🎓_Pharmacist-Hanoi_University_of_Pharmacy-10B981?style=for-the-badge" alt="HUP"/>
+
+<br/>
+
+```
+🔬 Drug Analysis & Quality Control
+📊 Pharmaceutical Market Intelligence  
+📋 Regulatory & Compliance (GMP/GDP)
+🧪 Clinical Data & Drug Interaction
+💉 Therapeutic Knowledge & DUR
+```
+
+</td>
+<td align="center" width="50%">
+
+### 💻 Technology & AI Engineering
+
+<img src="https://img.shields.io/badge/🚀_Engineer-Full--stack_×_AI-3B82F6?style=for-the-badge" alt="Tech"/>
+
+<br/>
+
+```
+🤖 AI Agents & LLM Applications
+🌐 Full-stack Web Development
+📈 Data Pipeline & Analytics
+🔗 RAG & Semantic Search
+☁️ Cloud Deploy & DevOps
+```
+
+</td>
+</tr>
+</table>
+
+> _"Tôi không chỉ đọc được đơn thuốc — tôi còn viết được **code** để tự động hóa toàn bộ quy trình dược."_
+>
+> _"I don't just read prescriptions — I write **code** to automate the entire pharmaceutical workflow."_
+
+</div>
+
+<br/>
+
+<!-- ========================================== -->
 <!--                  ABOUT ME                   -->
 <!-- ========================================== -->
 
@@ -38,25 +88,37 @@
 ```yaml
 name: Van Quan Bui
 location: Hanoi, Vietnam 🇻🇳
-current_role: Freelance — Pharma Professional | AI Automation & Market Intelligence
+current_role: Pharma Professional × AI Engineer × Market Intelligence Specialist
 website: https://vanquanbui.vercel.app
+nickname: "The Wind" 🌬️ (TheWinddd)
+
+education:
+  degree: Bachelor of Pharmacy (Dược sĩ Đại học)
+  university: Hanoi University of Pharmacy (Đại học Dược Hà Nội)
+  focus: Drug Analysis & Quality Control
 
 mission: >
   Building the "Full-stack Pharmacist" future —
-  không chỉ hiểu sản phẩm và quy định ngành, mà còn làm chủ 
-  dữ liệu, công cụ phân tích và tư duy hệ thống.
+  Bridging pharmaceutical expertise with cutting-edge technology.
+  Mastering data, AI tools, and system thinking
+  to transform healthcare workflows.
 
-specializations:
-  - 💊 Pharmaceutical Market Research & Intelligence
-  - 🤖 AI Automation & AI Agents
-  - 📊 Data Pipeline & Analytics
-  - 🌐 Full-stack Web Development
-  - 🎨 Product Design & UX/UI
+dual_expertise:
+  pharma:
+    - 💊 Pharmaceutical Market Research & Intelligence
+    - � Drug Analysis, Quality Control & Compliance
+    - 📋 Regulatory Intelligence (GMP/GDP/ASEAN/EU)
+    - 🏥 Clinical Data Standardization & DUR
+  tech:
+    - 🤖 AI Agents, RAG Systems & LLM Engineering
+    - 🌐 Full-stack Web Development (React/Next.js)
+    - 📊 Data Pipeline, ETL & Analytics
+    - 🎨 Product Design & UX Research
 
 fun_facts:
   - 🎹 Piano enthusiast
-  - 🌬️ Known as "The Wind" (TheWinddd)
-  - 📚 Lifelong learner bridging Pharma × Tech
+  - 📚 Lifelong learner — always bridging Pharma × Tech
+  - ☕ Fueled by coffee and curiosity
 ```
 
 <br/>
@@ -78,7 +140,11 @@ fun_facts:
   </tr>
   <tr>
     <td>💡</td>
-    <td><b>Exploring</b> Market Intelligence, Data Pipeline & Automation in Pharma industry</td>
+    <td><b>Exploring</b> market intelligence automation & data-driven pharma strategies</td>
+  </tr>
+  <tr>
+    <td>🧪</td>
+    <td><b>Applying</b> pharmaceutical science + tech to solve real-world healthcare problems</td>
   </tr>
   <tr>
     <td>🤝</td>
@@ -86,7 +152,7 @@ fun_facts:
   </tr>
   <tr>
     <td>⚡</td>
-    <td><b>Goal</b> — Become a <i>"Full-stack Pharmacist"</i> who masters data, AI & system thinking</td>
+    <td><b>Goal</b> — Become the <i>"Full-stack Pharmacist"</i> who masters data, AI & system thinking</td>
   </tr>
 </table>
 
@@ -113,6 +179,7 @@ fun_facts:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🤖 AI & Data
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -121,12 +188,18 @@ fun_facts:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### 🧪 Pharma & Science Tools
+![PubChem](https://img.shields.io/badge/PubChem-2F5496?style=for-the-badge&logoColor=white)
+![PubMed](https://img.shields.io/badge/PubMed-326599?style=for-the-badge&logoColor=white)
+![NMR Analysis](https://img.shields.io/badge/NMR_Analysis-8B5CF6?style=for-the-badge&logoColor=white)
+![ICD Coding](https://img.shields.io/badge/ICD_Coding-DC2626?style=for-the-badge&logoColor=white)
+![DrugBank](https://img.shields.io/badge/DrugBank-0EA5E9?style=for-the-badge&logoColor=white)
+
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 
 </div>
@@ -141,7 +214,7 @@ fun_facts:
 
 > 🔗 Xem chi tiết tất cả dự án tại **[vanquanbui.vercel.app](https://vanquanbui.vercel.app/)**
 >
-> _12 dự án thể hiện năng lực Market Intelligence, AI Automation và Data Analytics_
+> _12 dự án thể hiện năng lực kết hợp **Dược phẩm** × **Công nghệ** × **AI Automation**_
 
 <br/>
 
@@ -151,24 +224,24 @@ fun_facts:
   <tr>
     <td width="50%">
       <h4>🔵 Market Intelligence Data Pipeline</h4>
-      <p><code>Market Intelligence</code> <code>Featured</code></p>
-      <p>Hệ thống tự động thu thập, chuẩn hoá và phân tích dữ liệu thị trường Dược phẩm</p>
+      <p><code>Market Intelligence</code> <code>Pharma</code> <code>Featured</code></p>
+      <p>Hệ thống tự động thu thập, chuẩn hoá và phân tích dữ liệu thị trường Dược phẩm — từ scraping đến insight</p>
       <p>
-        <img src="https://img.shields.io/badge/Data_Pipeline-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Market_Research-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Automation-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Pipeline-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Market_Research-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Automation-0EA5E9?style=flat-square" />
       </p>
       <sub>Product Owner & Data Engineer • 2025</sub>
     </td>
     <td width="50%">
       <h4>🤖 BCKT AI – Market & Portfolio Assistant</h4>
-      <p><code>AI Agents</code> <code>Featured</code></p>
-      <p>AI Agent tự động lập Báo cáo Khảo sát Thị trường: phân tích sản phẩm, phân tích thị trường đối thủ...</p>
+      <p><code>AI Agents</code> <code>Pharma</code> <code>Featured</code></p>
+      <p>AI Agent tự động lập Báo cáo Khảo sát Thị trường: phân tích sản phẩm, đối thủ, portfolio...</p>
       <p>
-        <img src="https://img.shields.io/badge/Market_Research-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Portfolio/Category-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Competitive_Intelligence-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/+6_more-gray?style=flat-square" />
+        <img src="https://img.shields.io/badge/Market_Research-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Portfolio_Analysis-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Competitive_Intel-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/+6_more-6B7280?style=flat-square" />
       </p>
       <sub>Product Designer + Prompt Engineer + Business Analyst • 2024–2025</sub>
     </td>
@@ -176,25 +249,25 @@ fun_facts:
   <tr>
     <td width="50%">
       <h4>🎙️ Voice Analytics & Quality Scoring System</h4>
-      <p><code>Customer Experience</code> <code>Featured</code></p>
-      <p>Hệ thống chuẩn hoá dữ liệu cuộc gọi CSKH: audio → transcript có timestamp + phân tích...</p>
+      <p><code>Customer Experience</code> <code>AI</code> <code>Featured</code></p>
+      <p>Hệ thống chuẩn hoá dữ liệu cuộc gọi CSKH: audio → transcript có timestamp + phân tích chất lượng</p>
       <p>
-        <img src="https://img.shields.io/badge/Data_Analysis-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Reporting_&_Insights-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Dashboard/KPI-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/+4_more-gray?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Analysis-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Reporting_&_Insights-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dashboard_KPI-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/+4_more-6B7280?style=flat-square" />
       </p>
       <sub>Solution Designer & Product Lead • 2024</sub>
     </td>
     <td width="50%">
       <h4>📍 MedRep CRM + Territory Manager</h4>
-      <p><code>CRM & Field Force</code> <code>Featured</code></p>
-      <p>Hệ thống quản lý địa bàn cho trình dược viên: tìm lead nhà thuốc từ Google Maps,...</p>
+      <p><code>CRM & Field Force</code> <code>Pharma Sales</code> <code>Featured</code></p>
+      <p>Hệ thống quản lý địa bàn cho trình dược viên: tìm lead nhà thuốc từ Google Maps, CRM pipeline...</p>
       <p>
-        <img src="https://img.shields.io/badge/Lead_Generation-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/CRM_&_Pipeline-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/KPI_Dashboard-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/+5_more-gray?style=flat-square" />
+        <img src="https://img.shields.io/badge/Lead_Generation-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/CRM_&_Pipeline-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/KPI_Dashboard-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/+5_more-6B7280?style=flat-square" />
       </p>
       <sub>Product Designer + Solution Owner (Sales Ops) • 2025</sub>
     </td>
@@ -202,24 +275,24 @@ fun_facts:
   <tr>
     <td width="50%">
       <h4>📊 Job Market Analytics (Dược)</h4>
-      <p><code>Market Intelligence</code> <code>Featured</code></p>
-      <p>Dashboard phân tích thị trường tuyển dụng ngành Dược Việt Nam</p>
+      <p><code>Market Intelligence</code> <code>Pharma HR</code> <code>Featured</code></p>
+      <p>Dashboard phân tích thị trường tuyển dụng ngành Dược Việt Nam — xu hướng, mức lương, kỹ năng yêu cầu</p>
       <p>
-        <img src="https://img.shields.io/badge/Market_Research-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Data_Visualization-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Web_Scraping-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Market_Research-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Visualization-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Web_Scraping-0EA5E9?style=flat-square" />
       </p>
       <sub>Data Analyst • 2024</sub>
     </td>
     <td width="50%">
       <h4>🔗 LinkLM (Research Capture → NotebookLM)</h4>
-      <p><code>AI Agents</code></p>
-      <p>Chrome extension biến web thành "dữ liệu nghiên cứu": one-click lưu link + tóm tắt...</p>
+      <p><code>AI Agents</code> <code>Research Ops</code></p>
+      <p>Chrome extension biến web thành "dữ liệu nghiên cứu": one-click lưu link + tóm tắt AI → NotebookLM</p>
       <p>
-        <img src="https://img.shields.io/badge/Market/Competitive_Research-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Knowledge_Management-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Data_Standardization-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/+5_more-gray?style=flat-square" />
+        <img src="https://img.shields.io/badge/Research_Productivity-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Knowledge_Management-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Standardization-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/+5_more-6B7280?style=flat-square" />
       </p>
       <sub>Developer + Workflow Designer (Research Ops) • 2024</sub>
     </td>
@@ -235,10 +308,10 @@ fun_facts:
     <td width="33%">
       <h4>📈 Long Châu Supplement Analytics</h4>
       <p><code>Market Intelligence</code></p>
-      <p>Công cụ thu thập & phân tích danh mục TPCN trên Long Châu: lấy dữ liệu...</p>
+      <p>Công cụ thu thập & phân tích danh mục TPCN trên Long Châu: lấy dữ liệu, phân tích competitor...</p>
       <p>
-        <img src="https://img.shields.io/badge/Market_Research-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Competitor_Intelligence-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Market_Research-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Competitor_Intel-0EA5E9?style=flat-square" />
       </p>
       <sub>Market Analyst + Data Pipeline Builder • 2024</sub>
     </td>
@@ -247,18 +320,18 @@ fun_facts:
       <p><code>AI Agents</code></p>
       <p>Trợ lý AI nổi trên màn hình: chụp nội dung từ web/desktop, tóm tắt-dịch-chuẩn hoá văn bản...</p>
       <p>
-        <img src="https://img.shields.io/badge/Research_Productivity-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Reporting_Support-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Research_Productivity-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Reporting_Support-8B5CF6?style=flat-square" />
       </p>
       <sub>Developer + Workflow Designer • 2024</sub>
     </td>
     <td width="33%">
       <h4>❤️ BP Tracker</h4>
-      <p><code>UX/UI Design</code></p>
+      <p><code>UX/UI Design</code> <code>Healthcare</code></p>
       <p>Prototype app quản lý sức khoẻ gia đình: theo dõi huyết áp/nhịp tim, quét đơn thuốc...</p>
       <p>
-        <img src="https://img.shields.io/badge/UX_Research-teal?style=flat-square" />
-        <img src="https://img.shields.io/badge/Mobile_App_Prototype-teal?style=flat-square" />
+        <img src="https://img.shields.io/badge/UX_Research-14B8A6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Mobile_Prototype-14B8A6?style=flat-square" />
       </p>
       <sub>UX Designer + Product Thinker • 2025</sub>
     </td>
@@ -266,21 +339,21 @@ fun_facts:
   <tr>
     <td width="33%">
       <h4>⚖️ AI Compliance RAG</h4>
-      <p><code>AI Agents</code></p>
-      <p>Nền tảng RAG tra cứu & kiểm tra tuân thủ quy định (EU/ASEAN/VN) cho công nghệ...</p>
+      <p><code>AI Agents</code> <code>Regulatory</code></p>
+      <p>Nền tảng RAG tra cứu & kiểm tra tuân thủ quy định (EU/ASEAN/VN) cho ngành Dược...</p>
       <p>
-        <img src="https://img.shields.io/badge/Regulatory_Intelligence-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/RAG_/_Semantic_Search-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Regulatory_Intel-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/RAG_Search-8B5CF6?style=flat-square" />
       </p>
       <sub>Product Designer + AI Engineer • 2024</sub>
     </td>
     <td width="33%">
       <h4>🏥 Phuc Tinh Hospital – Clinical Data Quality</h4>
-      <p><code>Data Pipeline</code></p>
-      <p>Hệ thống chuẩn hoá dữ liệu bệnh viện: tự đồng ghép mã ICD — tên bệnh, kiểm tra tương tác...</p>
+      <p><code>Data Pipeline</code> <code>Healthcare</code></p>
+      <p>Hệ thống chuẩn hoá dữ liệu bệnh viện: tự động ghép mã ICD — tên bệnh, kiểm tra tương tác thuốc...</p>
       <p>
-        <img src="https://img.shields.io/badge/Data_Standardization-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Schema_Detection-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Standardization-EF4444?style=flat-square" />
+        <img src="https://img.shields.io/badge/Schema_Detection-EF4444?style=flat-square" />
       </p>
       <sub>Data Engineer + Solution Architect • 2024</sub>
     </td>
@@ -289,8 +362,8 @@ fun_facts:
       <p><code>AI Agents</code></p>
       <p>Trợ lý AI trong Excel: hỏi đáp dữ liệu bằng tiếng Việt, tự tạo bảng/biểu đồ/báo cáo...</p>
       <p>
-        <img src="https://img.shields.io/badge/Data_Analysis-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Reporting_Automation-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Analysis-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Reporting_Auto-8B5CF6?style=flat-square" />
       </p>
       <sub>Product Designer + AI Engineer • 2024</sub>
     </td>
@@ -329,42 +402,36 @@ fun_facts:
 <!--          OPEN SOURCE REPOS                  -->
 <!-- ========================================== -->
 
-## � Open Source Repos
+## 💎 Open Source Repos
 
 <div align="center">
 
+<a href="https://github.com/TheWinddd/pubchem">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=pubchem&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
+</a>
+<a href="https://github.com/TheWinddd/Pubmed-v2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=Pubmed-v2&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
+</a>
+<a href="https://github.com/TheWinddd/duocdienVN">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=duocdienVN&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
+</a>
+<a href="https://github.com/TheWinddd/NMR">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=NMR&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
+</a>
 <a href="https://github.com/TheWinddd/HUP-tailieu">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=HUP-tailieu&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=HUP-tailieu&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
 </a>
 <a href="https://github.com/TheWinddd/Streamlit-HUP">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=Streamlit-HUP&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/TheWinddd/pubchem">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=pubchem&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=Streamlit-HUP&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
 </a>
 <a href="https://github.com/TheWinddd/FormRD">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=FormRD&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=FormRD&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
+</a>
+<a href="https://github.com/TheWinddd/cLoan">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWinddd&repo=cLoan&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=F59E0B&text_color=C9D1D9&description_lines_count=2" />
 </a>
 
 </div>
-
-<br/>
-
-<!-- ========================================== -->
-<!--            SNAKE ANIMATION                  -->
-<!-- ========================================== -->
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheWinddd/TheWinddd/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheWinddd/TheWinddd/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/TheWinddd/TheWinddd/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-> 💡 *To enable the snake animation, set up the [snk GitHub Action](https://github.com/Platane/snk) in your profile repo.*
 
 <br/>
 
@@ -376,6 +443,54 @@ fun_facts:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheWinddd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- ========================================== -->
+<!--         PHARMA × TECH HIGHLIGHT             -->
+<!-- ========================================== -->
+
+<div align="center">
+
+## 🧬 Why "Full-stack Pharmacist"?
+
+<table>
+<tr>
+<td align="center">
+
+💊 **Pharmaceutical Knowledge**<br/>
+_Drug analysis, market intelligence, regulatory compliance_<br/>
+<sub>Understanding the "WHAT" and "WHY" of healthcare</sub>
+
+</td>
+<td align="center">
+
+➕
+
+</td>
+<td align="center">
+
+💻 **Technical Skills**<br/>
+_AI engineering, full-stack dev, data pipelines_<br/>
+<sub>Building the "HOW" — tools that transform workflows</sub>
+
+</td>
+<td align="center">
+
+🟰
+
+</td>
+<td align="center">
+
+🚀 **Unique Value**<br/>
+_Pharma-native AI solutions, no translation gap_<br/>
+<sub>Solutions designed BY a pharmacist, FOR pharmacists</sub>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
@@ -438,6 +553,8 @@ If you find my projects helpful or inspiring, consider giving them a ⭐!
 
 <div align="center">
   <sub>🌬️ <i>"Building the Full-stack Pharmacist future — bridging Pharmacy and Technology."</i></sub>
+  <br/>
+  <sub>💊 Pharmacist by training. 💻 Engineer by passion. 🚀 Innovator by choice.</sub>
   <br/>
   <sub>Made with ❤️ by <a href="https://github.com/TheWinddd">Van Quan Bui</a></sub>
 </div>
