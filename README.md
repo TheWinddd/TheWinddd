@@ -13,7 +13,7 @@
 
 ```yaml
 name    : Van Quan Bui  🌬️ "The Wind"
-role    : Portfolio & Market Intelligence @ Traphaco
+role    : Portfolio & Market Intelligence
 location: Hanoi, Vietnam 🇻🇳
 website : https://vanquanbui.vercel.app
 
