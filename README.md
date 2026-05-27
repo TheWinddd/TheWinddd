@@ -1,57 +1,73 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=💊%20Pharma%20×%20Code%20×%20AI&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Van%20Quan%20Bui%20—%20Full-stack%20Pharmacist&descAlignY=55&descSize=18" width="100%"/>
+<!--
+  ╔════════════════════════════════════════════════════════════════════════╗
+  ║                    💊 PHARMA × CODE × AI 💊                          ║
+  ║                       Van Quan Bui                                    ║
+  ╚════════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=TheWinddd&label=Profile%20Views&color=3b82f6&style=flat-square)](https://github.com/TheWinddd)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vanquanbui.vercel.app-3b82f6?style=flat-square)](https://vanquanbui.vercel.app/)
-[![Facebook](https://img.shields.io/badge/Facebook-Thewind1104-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Thewind1104)
-[![Instagram](https://img.shields.io/badge/Instagram-wind1104.hup-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/wind1104.hup/)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:3B82F6,100:F59E0B&height=200&section=header&text=Pharma%20%C3%97%20Code%20%C3%97%20AI&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Van%20Quan%20Bui%20%E2%80%94%20Full-stack%20Pharmacist&descSize=18&descAlignY=55&animation=twinkling" width="100%" alt="Header"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=3200&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Hi+%F0%9F%91%8B+I'm+Van+Quan+Bui;Pharma+%C3%97+Code+%C3%97+AI;Portfolio+%26+Market+Intelligence" alt="Typing banner" />
+  </a>
 
 </div>
 
 ---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding"/>
 
 ```yaml
-name     : Van Quan Bui  —  🌬️ "The Wind"
-role     : Portfolio & Market Intelligence
-edu      : B.Pharm · Hanoi University of Pharmacy
-focus    : Drug Analysis & Quality Control
+name: "Van Quan Bui — 🌬️ The Wind"
+role: "Portfolio & Market Intelligence"
+education: "B.Pharm · Hanoi University of Pharmacy"
+focus: "Drug Analysis & Quality Control"
 
 dual_core:
-  💊 pharma : Market Research · QC · GMP/GDP · Regulatory
-  💻 tech   : AI Agents · Next.js · Data Pipeline · RAG
+  pharma: "Market Research · QC · GMP/GDP · Regulatory"
+  tech: "AI Agents · Next.js · Data Pipeline · RAG"
 
-building :
-  → AI-powered tools for pharma workflows
-  → Market intelligence automation
+building:
+  - "AI-powered tools for pharma workflows"
+  - "Market intelligence automation"
 
-extras   : 🎹 Piano  ·  ☕ Coffee  ·  📚 Always learning
+extras: "🎹 Piano · ☕ Coffee · 📚 Always learning"
 ```
+
+- 💊 Pharmacist by training
+- 💻 Engineer by passion
+- 🚀 Innovator by choice
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Stack
+<h2 align="center">🛠️ Stack</h2>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=101010)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=101010)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101010)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 | Project | Description | Tags |
 |---|---|---|
@@ -66,23 +82,69 @@ extras   : 🎹 Piano  ·  ☕ Coffee  ·  📚 Always learning
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheWinddd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&cache_seconds=86400"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=TheWinddd&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6"/>
+
+  <a href="https://github.com/TheWinddd">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheWinddd&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&icon_color=3B82F6&text_color=FFFFFF&ring_color=F59E0B&count_private=true&cache_seconds=86400" alt="TheWinddd GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWinddd&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=F59E0B&text_color=FFFFFF" alt="Top Languages"/>
+  </a>
+
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=TheWinddd&theme=radical&hide_border=true&background=0D0D0D&stroke=00F5FF&ring=F59E0B&fire=3B82F6&currStreakLabel=00F5FF" alt="GitHub Streak"/>
+
 </div>
 
+---
+
+<h2 align="center">🌱 Activity Graph</h2>
+
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheWinddd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=F59E0B&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheWinddd&bg_color=0D0D0D&color=00F5FF&line=3B82F6&point=F59E0B&area=true&area_color=3B82F6&hide_border=true" width="95%" alt="Activity Graph"/>
+</div>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheWinddd/TheWinddd/output/github-snake-neon.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheWinddd/TheWinddd/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/TheWinddd/TheWinddd/output/github-snake-neon.svg" />
+  </picture>
+
+</div>
+
+---
+
+<h2 align="center">📬 Connect</h2>
+
+<div align="center">
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-vanquanbui.vercel.app-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)](https://vanquanbui.vercel.app/)
+  [![Facebook](https://img.shields.io/badge/Facebook-Thewind1104-3B82F6?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/Thewind1104)
+  [![Instagram](https://img.shields.io/badge/Instagram-wind1104.hup-F59E0B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/wind1104.hup/)
+  [![GitHub](https://img.shields.io/badge/GitHub-TheWinddd-39FF14?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/TheWinddd)
+
 </div>
 
 ---
 
 <div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+  <br/><br/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=TheWinddd&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
+  <br/><br/>
   <sub>💊 Pharmacist by training &nbsp;·&nbsp; 💻 Engineer by passion &nbsp;·&nbsp; 🚀 Innovator by choice</sub>
   <br/>
   <sub>Made with ❤️ by <a href="https://github.com/TheWinddd">Van Quan Bui</a></sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,45:3B82F6,75:00F5FF,100:39FF14&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- Thanks for visiting my profile! -->
