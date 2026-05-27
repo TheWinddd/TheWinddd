@@ -19,30 +19,39 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding"/>
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h3>Van Quan Bui — 🌬️ The Wind</h3>
+      <p>
+        <b>Role:</b> Portfolio & Market Intelligence<br/>
+        <b>Education:</b> B.Pharm · Hanoi University of Pharmacy<br/>
+        <b>Focus:</b> Drug Analysis & Quality Control
+      </p>
+      <p>
+        💊 <b>Pharma:</b> Market Research · QC · GMP/GDP · Regulatory<br/>
+        💻 <b>Tech:</b> AI Agents · Next.js · Data Pipeline · RAG
+      </p>
+      <p>
+        🔭 <b>Building:</b><br/>
+        • AI-powered tools for pharma workflows<br/>
+        • Market intelligence automation
+      </p>
+      <p>🎹 Piano · ☕ Coffee · 📚 Always learning</p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding"/>
+    </td>
+  </tr>
+</table>
 
-```yaml
-name: "Van Quan Bui — 🌬️ The Wind"
-role: "Portfolio & Market Intelligence"
-education: "B.Pharm · Hanoi University of Pharmacy"
-focus: "Drug Analysis & Quality Control"
+<div align="center">
 
-dual_core:
-  pharma: "Market Research · QC · GMP/GDP · Regulatory"
-  tech: "AI Agents · Next.js · Data Pipeline · RAG"
+  <img src="https://img.shields.io/badge/Pharmacist-by_training-00F5FF?style=for-the-badge&labelColor=101010" alt="Pharmacist by training"/>
+  <img src="https://img.shields.io/badge/Engineer-by_passion-3B82F6?style=for-the-badge&labelColor=101010" alt="Engineer by passion"/>
+  <img src="https://img.shields.io/badge/Innovator-by_choice-F59E0B?style=for-the-badge&labelColor=101010" alt="Innovator by choice"/>
 
-building:
-  - "AI-powered tools for pharma workflows"
-  - "Market intelligence automation"
-
-extras: "🎹 Piano · ☕ Coffee · 📚 Always learning"
-```
-
-- 💊 Pharmacist by training
-- 💻 Engineer by passion
-- 🚀 Innovator by choice
-
-<br clear="right"/>
+</div>
 
 ---
 
@@ -135,9 +144,7 @@ extras: "🎹 Piano · ☕ Coffee · 📚 Always learning"
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-  <br/><br/>
-  ![Profile Views](https://komarev.com/ghpvc/?username=TheWinddd&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
+  <img src="https://komarev.com/ghpvc/?username=TheWinddd&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <br/><br/>
   <sub>💊 Pharmacist by training &nbsp;·&nbsp; 💻 Engineer by passion &nbsp;·&nbsp; 🚀 Innovator by choice</sub>
   <br/>
